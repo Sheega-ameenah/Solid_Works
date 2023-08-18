@@ -1,2 +1,2 @@
-# Solid_Works
-some of my solid works projects
+# Solid Works
+some of my solid works Design
