@@ -1,2 +1,2 @@
 # Solid Works
-some of my solid works Design
+some of my CAD designs with solid works
